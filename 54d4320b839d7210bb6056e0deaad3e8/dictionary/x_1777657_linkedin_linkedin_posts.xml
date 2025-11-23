@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="2a05760b839d7210bb6056e0deaad327" label="LinkedIn Posts" max_length="40" name="x_1777657_linkedin_linkedin_posts" type="collection">
+        <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" label="Post Number" max_length="40" name="number" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Post" max_length="400" name="post" type="string"/>
+    </element>
+</database>

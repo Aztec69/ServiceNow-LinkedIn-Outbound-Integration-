@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_rest_message_fn_parameters">
+    <sys_rest_message_fn_parameters action="INSERT_OR_UPDATE">
+        <name>post_text</name>
+        <rest_message_function display_value="POST">5f763e4b839d7210bb6056e0deaad348</rest_message_function>
+        <sys_class_name>sys_rest_message_fn_parameters</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-11-23 17:21:07</sys_created_on>
+        <sys_id>6e07fe0b839d7210bb6056e0deaad3f6</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>post_text</sys_name>
+        <sys_package display_value="LinkedIn" source="x_1777657_linkedin">54d4320b839d7210bb6056e0deaad3e8</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="LinkedIn">54d4320b839d7210bb6056e0deaad3e8</sys_scope>
+        <sys_update_name>sys_rest_message_fn_parameters_6e07fe0b839d7210bb6056e0deaad3f6</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-11-23 17:21:33</sys_updated_on>
+        <type>string</type>
+        <value>test111</value>
+    </sys_rest_message_fn_parameters>
+</record_update>

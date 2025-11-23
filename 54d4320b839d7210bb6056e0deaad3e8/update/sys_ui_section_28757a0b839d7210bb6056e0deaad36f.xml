@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="" section_id="28757a0b839d7210bb6056e0deaad36f" sys_domain="global" table="x_1777657_linkedin_linkedin_posts" version="3" view="">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>number</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-11-23 17:14:08</sys_created_on>
+            <sys_id>2475fe0b839d7210bb6056e0deaad389</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1777657_linkedin_linkedin_posts" sys_domain="global" view="Default view">28757a0b839d7210bb6056e0deaad36f</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-11-23 17:14:08</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>post</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-11-23 17:14:08</sys_created_on>
+            <sys_id>ec75fe0b839d7210bb6056e0deaad389</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1777657_linkedin_linkedin_posts" sys_domain="global" view="Default view">28757a0b839d7210bb6056e0deaad36f</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-11-23 17:14:08</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption/>
+            <header>false</header>
+            <name>x_1777657_linkedin_linkedin_posts</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-11-23 17:14:08</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>28757a0b839d7210bb6056e0deaad36f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_1777657_linkedin_linkedin_posts</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="LinkedIn" source="x_1777657_linkedin">54d4320b839d7210bb6056e0deaad3e8</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="LinkedIn">54d4320b839d7210bb6056e0deaad3e8</sys_scope>
+            <sys_update_name>sys_ui_section_28757a0b839d7210bb6056e0deaad36f</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-11-23 17:14:08</sys_updated_on>
+            <sys_user/>
+            <title>true</title>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>
